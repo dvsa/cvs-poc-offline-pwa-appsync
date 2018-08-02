@@ -1,0 +1,24 @@
+page-tests {
+    table {
+        width: 100%;
+    }
+    td,
+    th {
+        padding: 3px 10px;
+    }
+    tr:nth-child(odd) {
+        background-color: #ccc;
+        color: #444;
+    }
+    .button {
+        display: block;
+        margin: 10px 0px 20px 0px;
+    }
+    .title {
+        font-weight: bold;
+        margin: 10px 0px
+    }
+    .history {
+        margin: 15px 5px;
+    }
+}
